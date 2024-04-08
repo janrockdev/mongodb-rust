@@ -14,7 +14,7 @@ export MONGODB_COLLECTION="users"
 cargo build --release
 ```
 
-### run
+### Run
 ```
 ./user-app create "user1@foo.com"
 ./user-app list all
